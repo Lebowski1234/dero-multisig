@@ -116,6 +116,11 @@ curl --request POST --data-binary @multisig.bas http://127.0.0.1:30309/install_s
 
 The Dero Stargate daemon and wallet must both be running first. The wallet must be unlocked and have minimum 50 Dero unlocked balance available.
 
+Get the Dero Stargate binaries here:
+
+[https://git.dero.io/DeroProject/Dero_Stargate_testnet_binaries](https://git.dero.io/DeroProject/Dero_Stargate_testnet_binaries)
+
+
 To run the daemon:
 
 ```
@@ -132,7 +137,7 @@ To run the wallet:
 
 ## Using the Wallet
 
-Download the user interface and follow the instructions: [https://github.com/lebowski1234/multisig-ui](https://github.com/lebowski1234/multisig-ui). Command line instructions for are provided below as an alternative option. 
+Download the user interface and follow the instructions: [https://github.com/lebowski1234/multisig-ui](https://github.com/lebowski1234/multisig-ui). Command line instructions are provided below as an alternative option. 
 
 
 ## Command Line Usage
