@@ -193,3 +193,12 @@ The wallet smart contract code does not keep track of the balance, and does not 
 This is done from the user interface. Although possible with curl, it is very cumbersome. 
 
 
+## Contact Details
+
+I plan to update the smart contract and user interface for the Dero main network, when smart contracts become live. To report a bug, please open an issue in github. 
+
+My contact details are: thedudelebowski1234@gmail.com
+
+Finally, if you found this useful, any Dero donations are most welcome! dERoSME4c5GNUvPo27NsRFeJPR1FKiYt87g8Gknbm6JU9eL3xRPDs6JijHuVNxVzyFZXg1wxjbh52Hu9gUfWd3Lx5QRNTXvJWZ
+
+
